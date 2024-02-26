@@ -24,4 +24,4 @@ dotnet restore
 dotnet build
 ```
 
-7. Now open the solution in vusual studio and run it...hopefully it works
+7. Now open the solution in vusual studio and run it...hopefully it works &#x1F480;
